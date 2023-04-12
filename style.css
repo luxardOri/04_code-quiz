@@ -1,0 +1,47 @@
+* {
+    background-color: aquamarine;
+}
+
+#start-block {
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#start-block h1 {
+    font-size: 60px;
+    font-weight: bolder;
+    color: purple;
+}
+
+p {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#start-button {
+    background-color: purple;
+    color: whitesmoke;
+    border-radius: 10px;
+    width: 200px;
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-top: 20px;
+}
+
+#start-button:hover {
+    background-color: rgb(238, 2, 238);
+    color: whitesmoke;
+    border-radius: 10px;
+    width: 200px;
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-top: 20px;
+}
+
+#quiz-block {
+    font-size: 20px;
+}
+
+.hide {
+    display: none;
+}
+
