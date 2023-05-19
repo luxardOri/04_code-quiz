@@ -12,8 +12,8 @@ No installations needed, but will need access to final project link and github. 
 
 To see the final project please see the links below:
 
-GitHub link: https://github.com/luxardOri/Week-4-Challenge/  
-Final project link: https://luxardori.github.io/Week-4-Challenge/
+GitHub link: https://github.com/luxardOri/04_code-quiz  
+Final project link: https://luxardori.github.io/04_code-quiz
 
 You can see the html used by either clicking on the gitHub link or by inspecting the final project link.
 
